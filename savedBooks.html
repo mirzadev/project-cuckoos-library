@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Cuckoo's Library-Saved Books</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.3/css/bulma.min.css" />
+    <link rel="stylesheet" href="./assets/css/savedBooks.css" />
+  </head>
+  <body>
+    <section class="hero is-fullheight">
+      <div class="m-5">
+        <div class="columns is-flex is-justify-content-space-between">
+          <div class="column is-one-third">
+            <h1 class="is-size-4 is-flex is-align-items-center" id="book_title">
+              <img src="./assets/images/chocobo.png" style="width: 1em" alt="" />Cuckoo's Library
+            </h1>
+          </div>
+          <div class="is-flex is-justify-content-center is-align-items-center is-half px-5 mx-4 has-text-centered" id="navbar">
+            <button class="button p-3 mx-2 has-text-weight-medium is-rounded" id="mainPage-btn">Back To Main Page</button>
+            <button class="button p-3 mx-2 has-text-weight-medium is-rounded" id="mainPage-btn"><a href="./index.html">Back To Main Page</a></button>
+            <button class="button p-3 mx-2 has-text-weight-medium is-rounded" id="clear-btn">Clear Shelf</button>
+            <button class="button p-3 mx-2 has-text-weight-medium is-rounded" id="contact-btn">Contact</button>
+            <button class="button p-3 mx-2 has-text-weight-medium is-rounded" id="contact-btn"><a href="https://github.com/AbhiBiju/Cuckoos-Library/">Github Repo</a></button>
+          </div>
+        </div>
+      </div>
+      <div class="pb-5 has-text-centered">
+        <h2 class="is-size-1 block mx-6 py-3 px-6">Saved Books</h2>
+      </div>
+      <section class="container" id="booksBox"></section>
+    </section>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.24.0/moment.min.js"></script>
+    <script
+      src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"
+      integrity="sha512-894YE6QWD5I59HgZOGReFYm4dnWc1Qt5NtvYSaNcOP+u1T9qYdvdihz0PPSiiqn/+/3e7Jo4EaG7TubfWGUrMQ=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    ></script>
+    <script src="./assets/js/savedBooks.js"></script>
+  </body>
+</html>
