@@ -1,3 +1,18 @@
+<<<<<<< HEAD
+=======
+
+# Project #1 - Group 2
+
+Trilogy – Full Stack Development Program University of Miami Cohort 2021
+
+## Team Members
+
+- Abhinav Biju
+- Mirza Awal
+- Rocio Arias
+- Tysean Hill
+
+>>>>>>> 6e8fb8e27cc59c0e8a97b9a208a67529a5bcbfe1
 ## Cuckoo's Library
 
 ### Project Description
@@ -24,6 +39,7 @@ HTML, CSS, JavaScript
 
 - Libraries & Frameworks used:
 Bulma CSS Framework, jQuery
+<<<<<<< HEAD
 
 ## API Reference
 
@@ -34,3 +50,17 @@ Bulma CSS Framework, jQuery
 ## Copyright
 
 Abhinav Biju, Mirza Awal, Rocio Arias, Tysean Hill
+=======
+
+## API Reference
+
+- Google Books API (Book data by various criteria)
+
+- Giphy API (Semi-randomized Gifs related to various topics)
+
+## Copyright
+
+Abhinav Biju, Mirza Awal, Rocio Arias, Tysean Hill
+
+© 2021 All Rights Reserved
+>>>>>>> 6e8fb8e27cc59c0e8a97b9a208a67529a5bcbfe1
