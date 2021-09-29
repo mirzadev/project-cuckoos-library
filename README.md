@@ -10,7 +10,7 @@ Trilogy – Full Stack Development Program University of Miami Cohort 2021
 - Tysean Hill
 
 ## Cuckoo's Library
-- Deployment in Netlify(https://cuckoos-library.netlify.app/)
+[Deployment in Netlify](https://cuckoos-library.netlify.app/)
 ### Project Description
 
 Cuckoo's Library is a book search tool that allows the user to look up and keep track of books they are curious about. The user is able to search by Title, Author Name, or Genre and expect a list of related books to their query. The user can also find out their preferred genre of books by taking the Genre Quiz. The application utilizes the Google Books API to retrieve information regarding the user's book search query, as well as the Giphy API for related pictures to their Genre Quiz. After having completed a search or a quiz, the user is able to save their books of choice to their Bookshelf of Saved Books. The user has complete control over their Bookshelf and is able to easily browse through and find books they have saved previously.
